@@ -56,7 +56,7 @@ For the demonstration purposes DemoTheme.zip icon theme was provided.
 Extract the DemoTheme.zip archive to the appropriate location:
 
 - On Linux: `/home/user_name/.FreeCAD/Gui/Icons/DemoTheme`
-- On MacOS: `/Users/user_name/Library/Preferences/FreeCAD/Gui/Icons/DemoTheme`
+- On MacOS: `/Users/user_name/Library/Application Support/FreeCAD`
 - On Windows: `C:\Users\user_name\AppData\Roaming\FreeCAD\Gui\Icons\DemoTheme`
 
 ## Creating themes
